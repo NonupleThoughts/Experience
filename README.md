@@ -23,4 +23,20 @@ For more detail about it, please go to see the following url:
 http://www.cnblogs.com/this-543273659/archive/2011/07/21/2112358.html
 https://www.zhihu.com/question/31797003
 
+2017.12.13
+
+Also about template
+
+The problem could be described as "Templates can only be implemented in the header file"
+
+Quote from The C++ standard library: a tutorial and handbook:
+
+    The only portable way of using templates at the moment is to implement them in header files by using inline functions.
+
+From "https://stackoverflow.com/questions/495021/why-can-templates-only-be-implemented-in-the-header-file"
+
+The following url has another solution to this problem, but it may need to specified the type of templates;
+
+https://stackoverflow.com/questions/8752837/undefined-reference-to-template-class-constructor?answertab=votes#tab-top
+
 
