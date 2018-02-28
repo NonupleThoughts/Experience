@@ -48,3 +48,9 @@ And when i want to use linked list to implement ShellSort, i find that i am not 
 
 As a result, I believe that I should achieve it before evaluating an implementation or comparing it with others.
 
+2018.2.28
+
+Before starting coding, you should firstly understand what you want to do, and know how to implement it. Otherwise you will waste much time.
+
+When you are doing things, try to find the keypoint of it, which will be helpful for what you are doing. For example, the keypoints of sort which bases on comparison is exchange and comparision(Algorithms Fourth Edition). If you know that, when you are wirting some sort algorithms or program, you will be much clearer about.
+
