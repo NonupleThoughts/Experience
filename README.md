@@ -54,3 +54,7 @@ Before starting coding, you should firstly understand what you want to do, and k
 
 When you are doing things, try to find the keypoint of it, which will be helpful for what you are doing. For example, the keypoints of sort which bases on comparison is exchange and comparision(Algorithms Fourth Edition). If you know that, when you are wirting some sort algorithms or program, you will be much clearer about.
 
+2018.3.8
+In computer science, a heap is a specialized tree-based data structure that satisfies the heap property: if P is a parent node of C, then the key (the value) of P is either greater than or equal to (in a max heap) or less than or equal to (in a min heap) the key of C. The node at the "top" of the heap (with no parents) is called the root node.
+
+From WIKI
